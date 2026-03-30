@@ -33,7 +33,7 @@ Durante el desarrollo, se identificó que el script (usando `accept()`) no detec
 
 <img width="1650" height="229" alt="alertas_rafaga_nmap" src="https://github.com/user-attachments/assets/d390fb34-92a6-4700-9074-b9704ceb9634" />
 
-**Se puede ver el código utulizado para esta prueba en la carpeta */code* donde los textos los he cambiado al inglés ya que para programar es más práctico.
+**Se puede ver el código utulizado para esta prueba en la carpeta */code* donde los textos los he cambiado al inglés.
 
 ## 💻 Ejecución
 ```bash
